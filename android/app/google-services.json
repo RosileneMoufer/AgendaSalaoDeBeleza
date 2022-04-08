@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782490293019",
+    "project_id": "portfoliosalaodebeleza",
+    "storage_bucket": "portfoliosalaodebeleza.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782490293019:android:faf4beaaa346d3d310b9be",
+        "android_client_info": {
+          "package_name": "br.com.rosilene.agendasalaodebeleza.agendasalaodebeleza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782490293019-5ast1u9t1p1o2gdt7onbc36l8526ahus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVycOIGurnDivSj8EzhrlWakwUjBmBII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782490293019-5ast1u9t1p1o2gdt7onbc36l8526ahus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
