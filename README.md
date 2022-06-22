@@ -1,16 +1,12 @@
-# agendasalaodebeleza
+# Agenda Salão de Beleza
 
-A new Flutter project.
+<p>
+  Aplicativo desenvolvido em Flutter e Firebase cujo objetivo é agendar horários.<br />
+  A aplicação conta com usa Splash Screen, tela de apresentação, tela principal, na qual o usuário poderá ver os dias e horários disponíveis e a tela de agendamentos.
+</p>
+<p>
+  Para informar as telas quando algum agendamento for realizado, utilizei o Provider com o Consumer, ChangeNotifier e notifyListeners().<br />
+  Utilizei como Banco de Dados o Firebase Firestore Database. <br />
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image1110](https://user-images.githubusercontent.com/9465347/175165635-9aee16f9-3a78-459e-8401-ce5eeb73f645.png)
